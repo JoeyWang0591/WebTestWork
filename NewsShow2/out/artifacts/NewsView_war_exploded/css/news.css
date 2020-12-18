@@ -1,0 +1,49 @@
+.messageBox{
+    float: left;
+    width: 58%;
+    height: 300px;
+    margin-left: -140px;
+}
+*{
+    font-size: 12px;
+}
+.specialImg{
+    float: right;
+    width: 28%;
+    height: 300px;
+    margin-top: 70px;
+    margin-right: -140px;
+}
+
+.allImg{
+    width: auto;
+    height: 300px;
+}
+
+.myTab{
+    width: auto;
+}
+
+table{
+    width: 100%;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.mes{
+    width: 40%;
+    height: 30px;
+}
+.time{
+    width: 10%;
+    height: 30px;
+}
+
+#tab{
+    font-size: 12px;
+    text-align: left;
+}
+#bull2{
+    font-size: 12px;
+}
